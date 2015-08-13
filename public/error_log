@@ -1,0 +1,18 @@
+[12-Aug-2015 17:40:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 35
+[12-Aug-2015 17:41:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 35
+[12-Aug-2015 17:41:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 35
+[12-Aug-2015 17:41:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 35
+[12-Aug-2015 17:42:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 35
+[12-Aug-2015 17:42:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 35
+[12-Aug-2015 17:43:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:43:53 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:44:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:44:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:44:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
+[12-Aug-2015 17:45:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/uzupis/public_html/grability/app/Http/Controllers/WelcomeController.php on line 40
