@@ -1,6 +1,7 @@
 <?php namespace App\Http\Controllers;
 
-use grability\repositories\CalculusRepository;
+use App\Http\Requests\CalculusRequest;
+use grabbackend\repositories\CalculusRepository;
 
 class WelcomeController extends Controller {
 
@@ -39,15 +40,20 @@ class WelcomeController extends Controller {
 	 */
 	public function hola()
 	{
-		//$liz = $this->doit();
-		
-		$liz = $this->calculusR->doit(2);
-		return view('hola', compact('liz'));
-		//return view('hola');
+		return view('hola');
 	}
 
-	public function doit()
+	public function calculus(CalculusRequest $request)
 	{
-		return 'Lizzie';
+		$pinput = $request->text;
+		
+		$pt = $this->calculusR->getT($pinput);
+		$pN = $this->calculusR->getN($pinput);
+		$pM = $this->calculusR->getM($pinput);
+		
+		$exercise = $this->calculusR->compute($pinput);
+
+		return view('results', compact('exercise'));
 	}
+	
 }

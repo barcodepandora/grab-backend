@@ -15,5 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('hola', 'WelcomeController@hola');
-Route::get('calculus', 'CalculusController@calculus');
+Route::post('calculus', ['as' => 'calculus', 'uses' => 'WelcomeController@calculus']);

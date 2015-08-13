@@ -38,7 +38,28 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">3D Matrix 4 Grability</div>
+
+
+				{!! Form::open( array('route' => 'calculus') ) !!}
+				
+				<div class="form-group">
+
+
+					{!! Form::label('Ingrese la entrada') !!}<br/>
+					{!! Form::textarea('text', null, 
+						array('required', 
+							  'class'=>'form-control', 
+							  'placeholder'=>'Ingrese la entrada')) !!}
+					
+				</div>
+				
+				<div class="form-group">
+					{!! Form::submit('Ingresar', 
+					  array('class'=>'btn btn-primary')) !!}
+				</div>
+				{!! Form::close() !!}
+				
             </div>
         </div>
     </body>

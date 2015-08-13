@@ -1,6 +1,6 @@
 <?php
 
-use grability\repositories\CalculusRepository;
+use grabbackend\repositories\CalculusRepository;
 
 use Illuminate\Foundation\Testing\WithoutMiddleware;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
